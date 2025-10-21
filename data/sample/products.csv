@@ -1,0 +1,201 @@
+product_id,product_name,category,price,cost
+1,Lay Three,Sports,215.01,161.66
+2,Investment Eye,Clothing,95.38,65.0
+3,Campaign Response,Clothing,404.88,170.79
+4,National Man,Clothing,200.28,149.67
+5,Mission High,Electronics,111.66,58.57
+6,Nation Song,Food & Beverage,307.71,142.51
+7,Animal Usually,Electronics,118.44,59.01
+8,Set Door,Food & Beverage,284.76,190.91
+9,Anyone Fall,Toys,131.35,88.36
+10,Why Kitchen,Toys,52.75,30.04
+11,No List,Electronics,430.48,212.64
+12,Four Accept,Food & Beverage,357.17,183.78
+13,Including Day,Toys,40.16,24.31
+14,Good Beat,Electronics,314.21,146.45
+15,Up Owner,Clothing,372.05,167.01
+16,System Ago,Food & Beverage,502.0,214.55
+17,Sing Draw,Toys,150.79,73.1
+18,Road Land,Sports,77.43,44.85
+19,Bad Whose,Clothing,375.18,176.95
+20,Enjoy Debate,Books,232.19,154.24
+21,Community Girl,Books,79.04,45.03
+22,Foreign At,Electronics,399.25,172.73
+23,Produce Process,Toys,81.81,61.12
+24,Bill Ahead,Toys,142.48,103.29
+25,Media Lay,Health & Beauty,108.42,57.09
+26,System Agent,Sports,58.7,40.0
+27,Person Subject,Food & Beverage,341.09,188.02
+28,Produce Worry,Home & Garden,233.92,93.69
+29,Good Though,Electronics,182.94,129.83
+30,Enough End,Home & Garden,320.37,215.97
+31,Box Material,Clothing,359.62,199.06
+32,Edge Grow,Health & Beauty,200.04,99.27
+33,There Arm,Electronics,331.9,134.63
+34,Term Goal,Sports,246.77,171.67
+35,Nature Study,Sports,330.21,193.31
+36,Economic Yet,Sports,205.7,111.52
+37,Baby Stand,Clothing,538.33,243.11
+38,Plan President,Books,361.94,218.28
+39,Leg South,Electronics,94.03,42.45
+40,Beyond Process,Clothing,286.23,151.74
+41,Likely Particular,Sports,547.72,232.63
+42,Capital Bed,Clothing,101.17,63.67
+43,Ask Whom,Clothing,48.94,25.99
+44,Along Huge,Home & Garden,474.36,244.61
+45,Form Voice,Home & Garden,68.19,36.46
+46,Thus Rule,Food & Beverage,164.14,69.94
+47,Attention Stay,Books,582.59,241.27
+48,Care Assume,Toys,319.6,179.67
+49,Wide Suffer,Clothing,215.8,112.33
+50,Letter Around,Electronics,90.51,65.74
+51,Fish Popular,Books,235.07,149.14
+52,Produce Lay,Electronics,14.53,6.76
+53,Attorney Blue,Toys,145.79,61.09
+54,Research Arrive,Health & Beauty,35.45,22.36
+55,Operation Area,Health & Beauty,83.86,57.49
+56,Financial To,Food & Beverage,120.51,64.53
+57,I Interest,Food & Beverage,73.15,51.65
+58,Big Prepare,Electronics,164.63,91.8
+59,Soldier Item,Clothing,421.7,169.97
+60,Early Treatment,Clothing,43.15,19.85
+61,Place Store,Health & Beauty,100.74,65.92
+62,Receive Price,Health & Beauty,59.8,39.34
+63,Action Long,Health & Beauty,159.4,66.2
+64,If Majority,Clothing,472.34,202.97
+65,Stuff Later,Electronics,43.46,17.39
+66,Up Pressure,Books,584.58,242.4
+67,President Blood,Books,86.14,45.75
+68,Group Rather,Home & Garden,516.71,216.84
+69,Writer Republican,Sports,242.9,97.85
+70,Stay Agree,Sports,520.18,232.0
+71,Long Nation,Health & Beauty,266.04,108.64
+72,Get People,Electronics,71.09,42.93
+73,Data Box,Toys,286.55,146.9
+74,Board Actually,Home & Garden,38.04,19.01
+75,Physical Sell,Home & Garden,36.16,18.94
+76,Author Personal,Books,30.1,21.79
+77,Strategy Though,Books,252.54,103.93
+78,Daughter West,Clothing,197.89,146.84
+79,Page Card,Toys,215.46,107.71
+80,Public Mr,Toys,361.56,234.0
+81,Establish Hear,Sports,112.67,63.48
+82,Know Medical,Clothing,282.58,117.02
+83,Share Pressure,Clothing,14.89,7.28
+84,Light Cultural,Sports,35.71,22.95
+85,Eight Certain,Clothing,64.37,37.45
+86,Subject Another,Home & Garden,384.29,220.42
+87,As Care,Sports,219.31,112.36
+88,Forget Pattern,Electronics,384.78,154.86
+89,Least Must,Clothing,331.45,168.63
+90,Reach Somebody,Clothing,343.43,235.04
+91,Help Foreign,Home & Garden,488.53,222.98
+92,Past Value,Toys,145.31,71.73
+93,Number Stand,Sports,113.11,54.88
+94,Child Choice,Electronics,206.3,128.83
+95,Manager For,Sports,49.93,27.61
+96,Player Gun,Home & Garden,26.86,15.8
+97,Film Home,Health & Beauty,260.06,161.09
+98,Across National,Electronics,254.14,140.16
+99,Peace Really,Home & Garden,78.89,32.41
+100,Resource Check,Home & Garden,319.15,138.67
+101,Art Economy,Toys,148.93,110.3
+102,Movement Tell,Electronics,508.02,225.25
+103,Thing Operation,Books,349.59,225.24
+104,Town Arm,Food & Beverage,290.39,168.4
+105,Knowledge Guy,Books,535.75,243.59
+106,Deal Deep,Home & Garden,535.88,216.83
+107,Push When,Toys,293.81,220.95
+108,Defense Stock,Books,352.85,196.68
+109,Authority Growth,Clothing,157.97,70.37
+110,Current Region,Health & Beauty,132.92,98.72
+111,Maybe Run,Health & Beauty,135.65,59.5
+112,Role Manage,Books,207.15,90.67
+113,Plan Room,Food & Beverage,124.73,59.62
+114,Glass Together,Sports,199.65,85.42
+115,Particular Others,Toys,173.98,91.03
+116,Government Power,Sports,338.18,235.11
+117,Firm Kid,Sports,119.68,48.75
+118,Get Commercial,Toys,28.97,14.37
+119,Book Look,Clothing,307.6,183.49
+120,Under Strategy,Sports,197.94,99.37
+121,Whether And,Books,28.94,15.87
+122,Mission Discuss,Toys,130.41,94.23
+123,Wife About,Clothing,330.49,157.67
+124,Purpose Dog,Sports,301.09,181.34
+125,Room Drug,Sports,284.82,168.39
+126,Man Price,Food & Beverage,215.5,140.83
+127,Different Edge,Sports,407.41,170.94
+128,Medical Simple,Sports,240.38,104.49
+129,Special Teacher,Toys,136.72,75.29
+130,Glass Surface,Books,217.69,118.92
+131,Sister How,Home & Garden,293.36,130.24
+132,Describe Instead,Toys,273.02,166.42
+133,Create That,Books,68.09,27.88
+134,According Him,Books,266.56,169.83
+135,Action Back,Health & Beauty,55.71,41.1
+136,Help All,Health & Beauty,343.91,154.76
+137,One Building,Books,219.02,106.54
+138,Change Fill,Food & Beverage,318.68,180.99
+139,Less Day,Electronics,135.21,64.78
+140,Program Pay,Clothing,521.79,223.7
+141,While Southern,Health & Beauty,305.82,195.71
+142,Here Animal,Clothing,27.66,17.3
+143,All Decide,Toys,264.23,116.83
+144,Decade Federal,Food & Beverage,563.42,237.76
+145,Contain Discuss,Home & Garden,408.11,208.49
+146,Value Everybody,Sports,349.99,187.2
+147,Serve Contain,Sports,436.62,189.19
+148,Group Throw,Books,370.9,192.62
+149,Once Else,Sports,100.68,72.28
+150,Could Deal,Clothing,106.35,62.45
+151,Age Control,Home & Garden,61.37,38.9
+152,Threat Everybody,Food & Beverage,245.22,178.07
+153,Whether Blood,Electronics,160.01,86.07
+154,Against Theory,Electronics,100.44,55.67
+155,Research Certain,Food & Beverage,476.8,214.9
+156,Hundred Real,Sports,296.28,121.86
+157,Store Value,Food & Beverage,440.66,189.6
+158,Bring Ground,Books,298.57,136.86
+159,Would Develop,Health & Beauty,202.82,124.62
+160,Focus Loss,Food & Beverage,20.63,12.11
+161,Education Hope,Home & Garden,421.14,182.42
+162,Table Hotel,Food & Beverage,476.08,245.28
+163,Recent Congress,Clothing,314.36,150.01
+164,Yeah New,Health & Beauty,237.67,162.47
+165,Successful Price,Toys,79.84,49.52
+166,Upon Leader,Food & Beverage,96.22,56.86
+167,Unit Seek,Food & Beverage,178.64,73.17
+168,Attention By,Electronics,93.42,66.81
+169,Charge Us,Toys,256.85,188.51
+170,Window Case,Electronics,82.84,59.93
+171,Study Customer,Books,463.0,189.79
+172,Dark No,Books,430.82,210.61
+173,Human Run,Books,75.55,35.92
+174,House Friend,Toys,191.18,118.93
+175,Place Laugh,Clothing,93.54,46.11
+176,Provide Election,Sports,292.66,195.56
+177,Will Any,Sports,41.89,31.48
+178,Source Power,Food & Beverage,349.05,146.07
+179,People Current,Clothing,220.51,102.18
+180,Too North,Books,344.64,150.06
+181,Financial Strategy,Clothing,66.74,29.97
+182,Church Generation,Electronics,395.98,200.08
+183,End Argue,Toys,163.37,90.06
+184,Professional Stuff,Electronics,45.47,21.89
+185,Far Turn,Clothing,487.43,213.15
+186,Card Today,Health & Beauty,192.91,111.21
+187,Movie Pattern,Sports,324.95,178.29
+188,Various Middle,Health & Beauty,374.71,155.9
+189,Determine Short,Sports,272.36,118.89
+190,Beat Still,Clothing,133.88,83.96
+191,Many Street,Health & Beauty,135.02,73.34
+192,Record Possible,Toys,303.95,144.61
+193,Attention Computer,Home & Garden,27.92,12.03
+194,Movie Important,Sports,214.77,124.45
+195,Society Us,Sports,208.26,88.38
+196,Quite Society,Books,271.04,141.17
+197,Mr House,Health & Beauty,56.22,25.98
+198,Moment Natural,Health & Beauty,223.99,141.02
+199,Majority Country,Electronics,308.38,163.25
+200,Fund Seem,Books,43.53,27.8
