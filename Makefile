@@ -45,3 +45,16 @@ test:
 
 restart: stop start
 	@echo "✓ Containers restarted"
+
+test:
+	pytest tests/ -v
+
+test-unit:
+	pytest tests/unit/ -v
+
+test-integration:
+	pytest tests/integration/ -v
+
+test-coverage:
+	pytest --cov=src --cov-report=html tests/
+	@echo "Coverage report: htmlcov/index.html"
