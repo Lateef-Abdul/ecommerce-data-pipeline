@@ -24,14 +24,14 @@ class CSVLoader:
         # Add metadata columns
         df['load_timestamp'] = datetime.now()
         df['source_file'] = os.path.basename(csv_path)
-        
+
         # Load to database
         with db.get_connection() as conn:
             df.to_sql(
                 'customers',
                 conn,
                 schema=self.schema,
-                if_exists='replace',  # Use 'append' for incremental loads
+                if_exists='append',  # Use 'append' for incremental loads
                 index=False,
                 method='multi',
                 chunksize=1000
