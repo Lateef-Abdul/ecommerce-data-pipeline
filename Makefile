@@ -32,6 +32,9 @@ pipeline:
 analytics:
 	python -m src.utils.run_analytics
 
+dashboard:
+	streamlit run dashboards/ecommerce_dashboard.py
+
 clean:
 	docker-compose down -v
 	rm -rf data/sample/*.csv
