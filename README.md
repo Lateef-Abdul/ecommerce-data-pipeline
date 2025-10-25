@@ -105,7 +105,7 @@ This project implements a complete data engineering pipeline for an e-commerce a
 ### Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-data-pipeline.git
+git clone https://github.com/Lateef-Abdul/ecommerce-data-pipeline.git
 cd ecommerce-data-pipeline
 
 # 2. Create virtual environment
@@ -276,8 +276,8 @@ make test-integration
 ### Data Model in PgAdmin
 ![Database](docs/images/database_schema.png)
 
-### ETL Pipeline Execution
-![Pipeline](docs/images/pipeline_run.png)
+### ETL Pipeline Execution (make analytics)
+![Pipeline](docs/images/make_analytics.png)
 
 ## 🔧 Available Commands
 ```bash
@@ -363,9 +363,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@Lateef-Abdul](https://github.com/Lateef-Abdul)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/lateef-abdul-86083a153/)
+- Email: abdullateef871@gmail.com
 
 ## 🙏 Acknowledgments
 
